@@ -1,8 +1,8 @@
-### Hello, my name is Patapee Sriyotha 👋
+# Hello, my name is Patapee Sriyotha 👋
 ## I am 23 years old 
 ## I am studying at Suranaree University of Technology
-# 🌱 I am a computer engineering student.
-# 📫 How to reach me: Patapee475@gmail.com
+### 🌱 I am a computer engineering student.
+### 📫 How to reach me: Patapee475@gmail.com
 
 
 <!--
