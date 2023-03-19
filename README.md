@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, my name is Patapee Sriyotha 👋
+## I am 23 years old 
+## I am studying at Suranaree University of Technology
+# 🌱 I am a computer engineering student.
+# 📫 How to reach me: Patapee475@gmail.com
+
 
 <!--
 **B6214975/B6214975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
